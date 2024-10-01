@@ -1,0 +1,30 @@
+[
+  {
+      "name": "Our first iOS apps",
+      "link": "https://swiftbook.ru",
+      "id": 1,
+      "number_of_lessons": 20,
+      "number_of_tests": 10
+  },
+  {
+      "name": "Framework SpriteKit for game development",
+      "link": "https://swiftbook.ru",
+      "id": 2,
+      "number_of_lessons": 45,
+      "number_of_tests": 0
+  },
+  {
+      "name": "Pattern MVC",
+      "link": "https://swiftbook.ru",
+      "id": 3,
+      "number_of_lessons": 8,
+      "number_of_tests": 10
+  },
+  {
+      "name": "Apps based on UITableView",
+      "link": "https://swiftbook.ru",
+      "id": 4,
+      "number_of_lessons": 67,
+      "number_of_tests": 0
+  }
+]
