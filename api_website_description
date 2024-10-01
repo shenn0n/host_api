@@ -1,0 +1,21 @@
+{
+  "courses":
+  [
+    {
+        "name": "Our first iOS apps",
+        "link": "https://swiftbook.ru",
+        "id": 1,
+        "number_of_lessons": 20,
+        "number_of_tests": 10
+    },
+    {
+        "name": "Framework SpriteKit for game development",
+        "link": "https://swiftbook.ru",
+        "id": 2,
+        "number_of_lessons": 45,
+        "number_of_tests": 0
+    }
+  ],
+  "websiteDescription": "We are teaching app development on Swift since 2014" ,
+  "websiteName": "SwiftBook.ru"
+}
