@@ -2,7 +2,7 @@
   {
       "name": "Our first iOS apps",
       "link": "https://swiftbook.ru",
-      "imageUrl": "https://developer.apple.com/swift/images/swift-og.png",
+      "imageUrl": "https://picsum.photos/200",
       "id": 1,
       "number_of_lessons": 20,
       "number_of_tests": 10
