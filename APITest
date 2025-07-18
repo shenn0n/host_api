@@ -1,28 +1,28 @@
 [
   {
       "name": "First",
-      "imageUrl": "https://www.imgonline.com.ua/examples/bee-on-daisy-mini.jpg",
+      "imageUrl": "https://developer.apple.com/swift/images/swift-og.png",
       "id": 1,
       "numberOne": 10,
       "numberTwo": 100
   },
   {
       "name": "Second",
-      "imageUrl": "https://www.imgonline.com.ua/examples/bee-on-daisy-mini.jpg",
+      "imageUrl": "https://developer.apple.com/swift/images/swift-og.png",
       "id": 2,
       "numberOne": 20,
       "numberTwo": 200
   },
   {
       "name": "Third",
-      "imageUrl": "https://www.imgonline.com.ua/examples/bee-on-daisy-mini.jpg",
+      "imageUrl": "https://developer.apple.com/swift/images/swift-og.png",
       "id": 3,
       "numberOne": 30,
       "numberTwo": 300
   },
   {
       "name": "Fourth",
-      "imageUrl": "https://www.imgonline.com.ua/examples/bee-on-daisy-mini.jpg",
+      "imageUrl": "https://developer.apple.com/swift/images/swift-og.png",
       "id": 4,
       "numberOne": 40,
       "numberTwo": 400
