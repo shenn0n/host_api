@@ -1,28 +1,28 @@
 [
   {
       "name": "First",
-      "imageUrl": "https://developer.apple.com/swift/images/swift-og.png",
+      "imageUrl": "https://picsum.photos/200",
       "id": 1,
       "numberOne": 10,
       "numberTwo": 100
   },
   {
       "name": "Second",
-      "imageUrl": "https://developer.apple.com/swift/images/swift-og.png",
+      "imageUrl": "https://picsum.photos/200",
       "id": 2,
-      "numberOne": 20,
-      "numberTwo": 200
+      "number_of_lessons": 20,
+      "number_of_tests": 200
   },
   {
       "name": "Third",
-      "imageUrl": "https://developer.apple.com/swift/images/swift-og.png",
+      "imageUrl": "https://picsum.photos/200",
       "id": 3,
       "numberOne": 30,
       "numberTwo": 300
   },
   {
       "name": "Fourth",
-      "imageUrl": "https://developer.apple.com/swift/images/swift-og.png",
+      "imageUrl": "https://picsum.photos/200",
       "id": 4,
       "numberOne": 40,
       "numberTwo": 400
