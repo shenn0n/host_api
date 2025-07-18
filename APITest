@@ -1,28 +1,28 @@
 [
   {
       "name": "First",
-      "imageUrl": "https://fastly.picsum.photos/id/167/200/200.jpg?hmac=sv_8nQnuUO9QJ47YNgjG2iTmSnnzYA2ysw8JrvD5OTk",
+      "imageUrl": "https://www.imgonline.com.ua/examples/bee-on-daisy-mini.jpg",
       "id": 1,
       "numberOne": 10,
       "numberTwo": 100
   },
   {
       "name": "Second",
-      "imageUrl": "https://picsum.photos/200",
+      "imageUrl": "https://www.imgonline.com.ua/examples/bee-on-daisy-mini.jpg",
       "id": 2,
       "numberOne": 20,
       "numberTwo": 200
   },
   {
       "name": "Third",
-      "imageUrl": "https://picsum.photos/200",
+      "imageUrl": "https://www.imgonline.com.ua/examples/bee-on-daisy-mini.jpg",
       "id": 3,
       "numberOne": 30,
       "numberTwo": 300
   },
   {
       "name": "Fourth",
-      "imageUrl": "https://picsum.photos/200",
+      "imageUrl": "https://www.imgonline.com.ua/examples/bee-on-daisy-mini.jpg",
       "id": 4,
       "numberOne": 40,
       "numberTwo": 400
